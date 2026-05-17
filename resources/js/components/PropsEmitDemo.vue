@@ -21,7 +21,7 @@ import { ref } from 'vue';
 
 import ChildComponent from './ChildComponent.vue';
 
-const message = ref('Hello From Parent');
+const message = ref('Hello world From Parent');
 
 function changeMessage() {
 
