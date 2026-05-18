@@ -25,7 +25,7 @@ const message = ref('Hello world From Parent');
 
 function changeMessage() {
 
-    message.value = 'Message Changed By Childddddddddd';
+    message.value = 'Message Changed By Children';
 }
 
 </script>
